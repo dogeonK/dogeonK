@@ -1,5 +1,12 @@
-### Hi there 👋
+<a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/dogeonK" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+#
+<!--
+![dogeonK's github stats](https://github-readme-stats.vercel.app/api?username=dogeonK&show_icons=true&theme=tokyonight)
+-->
+[![dogeonK's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dogeonK&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dogeonK)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dogeonK&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **dogeonK/dogeonK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
