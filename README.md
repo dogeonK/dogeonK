@@ -1,5 +1,8 @@
 <a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br>
+#
 <a href="https://github.com/dogeonK" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/dogeonK" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 #
 <!--
 ![dogeonK's github stats](https://github-readme-stats.vercel.app/api?username=dogeonK&show_icons=true&theme=tokyonight)
