@@ -1,9 +1,28 @@
-<a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<br>
+<h3> 📫 SNS List  </h3>
+<hr>
+
+<p>
+  <a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<h3> 💻 Stack </h3>
+<hr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+</p>
+
 #
-<a href="https://github.com/dogeonK" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://github.com/dogeonK" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-#
+
 <!--
 ![dogeonK's github stats](https://github-readme-stats.vercel.app/api?username=dogeonK&show_icons=true&theme=tokyonight)
 -->
