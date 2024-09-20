@@ -1,3 +1,4 @@
+<!--
 <h3> 📫 SNS List  </h3>
 <hr>
 
@@ -5,6 +6,7 @@
   <a href="https://morethan-dogeon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/dogeon._.b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+-->
 
 <h3> 💻 Stack </h3>
 <hr>
